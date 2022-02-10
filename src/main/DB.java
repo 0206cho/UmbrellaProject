@@ -21,7 +21,7 @@ public class DB {
 
          Class.forName("oracle.jdbc.driver.OracleDriver");
 
-         conn = DriverManager.getConnection("jdbc:oracle:thin:@114.71.137.174:53994:XE", "dodam", "inhatc4");
+         conn = DriverManager.getConnection("", "", "");
 
          stmt = conn.createStatement();
          
