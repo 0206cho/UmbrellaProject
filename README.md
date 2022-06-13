@@ -12,6 +12,7 @@
 <br>
 
 ## 📋 시스템구성 및 기능
+
 ### [ 시스템 구조 ] <br>
 <img src="libs/md_구성도.png">
 
@@ -21,19 +22,31 @@
 <br>
 
 ## 💻 프로젝트 구현
+
 ### [ 로그인 ]
 <img src="libs/md_img1.png">
+
 ### [ 메인 ]
 <img src="libs/md_img2.png">
+
 ### [ 대여 ]
 <img src="libs/md_img3.png">
+
 ### [ 반납 ]
 <img src="libs/md_img4.png">
+
 ### [ 통계 ]
 <img src="libs/md_img5.png">
+
 ### [ 관리자 - 학생 ]
 <img src="libs/md_img6.png">
+
 ### [ 관리자 - 우산 ]
 <img src="libs/md_img7.png">
+
 ### [ 관리자 - 미반납자 ]
 <img src="libs/md_img8.png">
+
+
+### [ 구현 영상 ]
+<img src="libs/구현영상.gif">
